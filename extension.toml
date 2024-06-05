@@ -1,0 +1,7 @@
+id = "poimandres"
+name = "poimandres"
+version = "0.0.2"
+schema_version = 1
+authors = ["mshaugh <max@mshaugh.com>"]
+description = "poimandres themes"
+repository = "https://github.com/mshaugh/poimandres.zed"
