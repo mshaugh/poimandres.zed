@@ -1,7 +1,7 @@
 id = "poimandres"
 name = "poimandres"
-version = "0.0.3"
+version = "0.0.4"
 schema_version = 1
-authors = ["mshaugh <max@mshaugh.com>"]
+authors = ["mshaugh <max@mshaugh.com>", "luk4h <luizmarcondes@lgvm.dev>"]
 description = "poimandres themes"
 repository = "https://github.com/mshaugh/poimandres.zed"
